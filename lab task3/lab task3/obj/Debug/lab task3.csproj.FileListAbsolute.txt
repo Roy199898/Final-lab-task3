@@ -1,0 +1,7 @@
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\bin\Debug\lab task3.exe.config
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\bin\Debug\lab task3.exe
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\bin\Debug\lab task3.pdb
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\obj\Debug\lab task3.csprojAssemblyReference.cache
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\obj\Debug\lab task3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\obj\Debug\lab task3.exe
+C:\Users\Administrator\3D Objects\New folder\lab task3\lab task3\obj\Debug\lab task3.pdb
